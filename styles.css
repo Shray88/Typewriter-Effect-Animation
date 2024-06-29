@@ -1,0 +1,19 @@
+/*---------------Made By Shray Sagar----------------- */
+*{
+    margin: 0;
+    border: 0;
+}
+body{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50vh;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+    color: aliceblue;
+    
+}
+
+/*---------------Made By Shray Sagar----------------- */
